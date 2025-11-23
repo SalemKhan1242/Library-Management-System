@@ -234,20 +234,17 @@ LibraryManagementSystem/
 
 ## Screenshots
 
-### Main Menu Interface
+### Main Code
 The system displays a clean, formatted menu with five options for user interaction.
 
-![Main Menu](Screenshot-2025-11-22-at-9.47.39-PM.jpg)
+![Main Menu](https://github.com/SalemKhan1242/Library-Management-System/blob/main/Project-Screenshots/WhatsApp%20Image%202025-11-23%20at%2011.14.38%20PM.jpeg)
 
-### Add Book and Show Books Functionality
-Demonstrates adding a book ("Crime and Punishment" by Fyodor Dostoevsky) and displaying the library inventory.
+![Add and Show Books](https://github.com/SalemKhan1242/Library-Management-System/blob/main/Project-Screenshots/WhatsApp%20Image%202025-11-23%20at%2011.14.21%20PM.jpeg)
 
-![Add and Show Books](Screenshot-2025-11-22-at-9.48.10-PM.jpg)
-
-### Application Execution
+### Code Execution
 Shows the complete workflow of the application including menu navigation and user interactions.
 
-![Application Execution](Screenshot-2025-11-22-at-9.48.57-PM.jpg)
+![Application Execution](https://github.com/SalemKhan1242/Library-Management-System/blob/main/Project-Screenshots/WhatsApp%20Image%202025-11-23%20at%2011.13.50%20PM.jpeg)
 
 ---
 
