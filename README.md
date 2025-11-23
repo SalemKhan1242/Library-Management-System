@@ -3,7 +3,7 @@
 **Project Name:** Library Management System  
 **Student Name:** Ahmad Salem Khan  
 **Registration Number:** 25BAI11418  
-**Course:** B.Tech Computer Science and Engineering  
+**Course:** B.Tech CSE AIML  
 **Institution:** VIT Bhopal University  
 **Professor:** Dr. Preetam Suman  
 **Date:** 24 November 2025
