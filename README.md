@@ -308,8 +308,6 @@ Shows the complete workflow of the application including menu navigation and use
 Registration Number: 25BAI11418  
 VIT Bhopal University  
 B.Tech Computer Science and Engineering  
-Email: [Your Email]  
-GitHub: [Your GitHub Profile]
 
 **Supervisor:**  
 Dr. Preetam Suman  
